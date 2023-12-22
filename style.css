@@ -1,0 +1,22 @@
+body {
+    background-color: #85ac93;
+}
+
+.imgContainer {
+    width: 500px;
+
+}
+
+#gitImage {
+    width: 50%;
+}
+
+#topContainer {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+}
+
+#data {
+    text-align: center;
+}
